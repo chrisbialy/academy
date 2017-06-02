@@ -1,0 +1,529 @@
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:08:31 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:08:31 UTC] PHP Stack trace:
+[26-Mar-2017 10:08:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:08:31 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:28:36 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:28:36 UTC] PHP Stack trace:
+[26-Mar-2017 10:28:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:28:36 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:31:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:31:10 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:31:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:31:13 UTC] PHP Stack trace:
+[26-Mar-2017 10:31:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:31:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:36:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 10
+[26-Mar-2017 10:36:32 UTC] PHP Stack trace:
+[26-Mar-2017 10:36:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:36:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:10
+[26-Mar-2017 10:39:21 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:39:21 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:21 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:39:21 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:21 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:39:21 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:21 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:39:21 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:39:21 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:21 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:39:24 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:39:24 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:24 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:39:24 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:24 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:39:24 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:24 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:39:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:39:24 UTC] PHP Stack trace:
+[26-Mar-2017 10:39:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:39:24 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:02 UTC] PHP Warning:  include(connectDB2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:02 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:02 UTC] PHP Warning:  include(): Failed opening 'connectDB2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:02 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:02 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:02 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:02 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:02 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:02 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:02 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:08 UTC] PHP Warning:  include(connectDB2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:08 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:08 UTC] PHP Warning:  include(): Failed opening 'connectDB2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:08 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:08 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:08 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:08 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:08 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:08 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:23 UTC] PHP Warning:  include(connectDB2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:23 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:23 UTC] PHP Warning:  include(): Failed opening 'connectDB2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 10:47:23 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:23 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:23 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 10:47:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 10:47:23 UTC] PHP Stack trace:
+[26-Mar-2017 10:47:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 10:47:23 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 11:38:01 UTC] PHP Warning:  include(connectDB2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 11:38:01 UTC] PHP Stack trace:
+[26-Mar-2017 11:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:38:01 UTC] PHP Warning:  include(): Failed opening 'connectDB2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 11:38:01 UTC] PHP Stack trace:
+[26-Mar-2017 11:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:38:01 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 11:38:01 UTC] PHP Stack trace:
+[26-Mar-2017 11:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:38:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 11:38:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 11:38:01 UTC] PHP Stack trace:
+[26-Mar-2017 11:38:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:38:01 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 11:40:59 UTC] PHP Warning:  include(connectDB2.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 11:40:59 UTC] PHP Stack trace:
+[26-Mar-2017 11:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:40:59 UTC] PHP Warning:  include(): Failed opening 'connectDB2.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 11:40:59 UTC] PHP Stack trace:
+[26-Mar-2017 11:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:40:59 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 11:40:59 UTC] PHP Stack trace:
+[26-Mar-2017 11:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:40:59 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 11:40:59 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 11:40:59 UTC] PHP Stack trace:
+[26-Mar-2017 11:40:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 11:40:59 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:27:36 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:27:36 UTC] PHP Stack trace:
+[26-Mar-2017 12:27:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:27:36 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:27:36 UTC] PHP Stack trace:
+[26-Mar-2017 12:27:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:27:40 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:27:40 UTC] PHP Stack trace:
+[26-Mar-2017 12:27:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:27:40 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:27:40 UTC] PHP Stack trace:
+[26-Mar-2017 12:27:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:28:20 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:28:20 UTC] PHP Stack trace:
+[26-Mar-2017 12:28:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:28:20 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:28:20 UTC] PHP Stack trace:
+[26-Mar-2017 12:28:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:28:23 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:28:23 UTC] PHP Stack trace:
+[26-Mar-2017 12:28:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:28:23 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:28:23 UTC] PHP Stack trace:
+[26-Mar-2017 12:28:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:11 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:29:11 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:11 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:29:11 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:11 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:29:11 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:11 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:29:11 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:29:11 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:11 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:29:17 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:29:17 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:17 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:29:17 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:17 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:29:17 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:29:17 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:29:17 UTC] PHP Stack trace:
+[26-Mar-2017 12:29:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:29:17 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:34:43 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:34:43 UTC] PHP Stack trace:
+[26-Mar-2017 12:34:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:34:43 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:34:43 UTC] PHP Stack trace:
+[26-Mar-2017 12:34:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:50 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:35:50 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:50 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:35:50 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:50 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:35:50 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:50 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:35:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:35:50 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:50 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:35:53 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:35:53 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:53 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:35:53 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:53 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:35:53 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:53 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:35:53 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:35:53 UTC] PHP Stack trace:
+[26-Mar-2017 12:35:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:35:53 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:37:14 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:37:14 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:14 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:37:14 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:14 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:37:14 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:14 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:37:14 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:37:14 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:14 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:37:16 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:37:16 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:16 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 4
+[26-Mar-2017 12:37:16 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:16 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:37:16 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:37:16 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 9
+[26-Mar-2017 12:37:16 UTC] PHP Stack trace:
+[26-Mar-2017 12:37:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:37:16 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:9
+[26-Mar-2017 12:42:32 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:42:32 UTC] PHP Stack trace:
+[26-Mar-2017 12:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:42:32 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:42:32 UTC] PHP Stack trace:
+[26-Mar-2017 12:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:42:32 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:42:32 UTC] PHP Stack trace:
+[26-Mar-2017 12:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:42:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:42:32 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:42:32 UTC] PHP Stack trace:
+[26-Mar-2017 12:42:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:42:32 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:47:33 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:47:33 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:33 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:47:33 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:33 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:47:33 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:33 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:47:33 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:47:33 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:33 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:47:35 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:47:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:35 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:47:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:47:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:35 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:47:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:47:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:47:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:47:35 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:50:39 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:50:39 UTC] PHP Stack trace:
+[26-Mar-2017 12:50:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:50:39 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:50:39 UTC] PHP Stack trace:
+[26-Mar-2017 12:50:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:50:39 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:50:39 UTC] PHP Stack trace:
+[26-Mar-2017 12:50:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:50:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:50:39 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:50:39 UTC] PHP Stack trace:
+[26-Mar-2017 12:50:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:50:39 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:51:49 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:51:49 UTC] PHP Stack trace:
+[26-Mar-2017 12:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:51:49 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:51:49 UTC] PHP Stack trace:
+[26-Mar-2017 12:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:51:49 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:51:49 UTC] PHP Stack trace:
+[26-Mar-2017 12:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:51:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:51:49 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:51:49 UTC] PHP Stack trace:
+[26-Mar-2017 12:51:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:51:49 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:52:35 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:52:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:52:35 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:52:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:52:35 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:52:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:52:35 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:52:35 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:52:35 UTC] PHP Stack trace:
+[26-Mar-2017 12:52:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:52:35 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:53:10 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:53:10 UTC] PHP Stack trace:
+[26-Mar-2017 12:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:53:10 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 12:53:10 UTC] PHP Stack trace:
+[26-Mar-2017 12:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:53:10 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:53:10 UTC] PHP Stack trace:
+[26-Mar-2017 12:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:53:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 12:53:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 12:53:10 UTC] PHP Stack trace:
+[26-Mar-2017 12:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 12:53:10 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 13:05:13 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:05:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:05:13 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:05:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:05:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 13:05:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:05:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 13:05:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/Functions/deleteBooking.php on line 12
+[26-Mar-2017 13:05:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:05:13 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/Functions/deleteBooking.php:12
+[26-Mar-2017 13:18:04 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:18:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:18:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:18:04 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:18:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:18:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:18:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Functions/deleteBooking.php on line 11
+[26-Mar-2017 13:18:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:18:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:20:04 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:20:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:20:04 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:20:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:20:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Functions/deleteBooking.php on line 11
+[26-Mar-2017 13:20:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:24:22 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:24:22 UTC] PHP Stack trace:
+[26-Mar-2017 13:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:24:22 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:24:22 UTC] PHP Stack trace:
+[26-Mar-2017 13:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:24:22 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Functions/deleteBooking.php on line 11
+[26-Mar-2017 13:24:22 UTC] PHP Stack trace:
+[26-Mar-2017 13:24:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:26:19 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:26:19 UTC] PHP Stack trace:
+[26-Mar-2017 13:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:26:19 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:26:19 UTC] PHP Stack trace:
+[26-Mar-2017 13:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:26:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Functions/deleteBooking.php on line 11
+[26-Mar-2017 13:26:19 UTC] PHP Stack trace:
+[26-Mar-2017 13:26:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:48:04 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:48:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:48:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:48:04 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:48:04 UTC] PHP Stack trace:
+[26-Mar-2017 13:48:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:49:24 UTC] PHP Warning:  include(connectDB.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:49:24 UTC] PHP Stack trace:
+[26-Mar-2017 13:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:49:24 UTC] PHP Warning:  include(): Failed opening 'connectDB.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Functions/deleteBooking.php on line 7
+[26-Mar-2017 13:49:24 UTC] PHP Stack trace:
+[26-Mar-2017 13:49:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:58:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/Functions/deleteBooking.php on line 22
+[26-Mar-2017 13:58:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:58:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:58:13 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Functions/deleteBooking.php:22
+[26-Mar-2017 13:58:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/Functions/deleteBooking.php on line 27
+[26-Mar-2017 13:58:13 UTC] PHP Stack trace:
+[26-Mar-2017 13:58:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:58:13 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Functions/deleteBooking.php:27
+[26-Mar-2017 13:59:35 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/Functions/deleteBooking.php on line 22
+[26-Mar-2017 13:59:35 UTC] PHP Stack trace:
+[26-Mar-2017 13:59:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:59:35 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Functions/deleteBooking.php:22
+[26-Mar-2017 13:59:35 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/ubuntu/workspace/Functions/deleteBooking.php on line 27
+[26-Mar-2017 13:59:35 UTC] PHP Stack trace:
+[26-Mar-2017 13:59:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/deleteBooking.php:0
+[26-Mar-2017 13:59:35 UTC] PHP   2. PDOStatement->execute() /home/ubuntu/workspace/Functions/deleteBooking.php:27
+[05-Apr-2017 15:34:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:34:05 UTC] PHP Stack trace:
+[05-Apr-2017 15:34:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:35:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:35:02 UTC] PHP Stack trace:
+[05-Apr-2017 15:35:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:35:43 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:35:43 UTC] PHP Stack trace:
+[05-Apr-2017 15:35:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:36:05 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:36:05 UTC] PHP Stack trace:
+[05-Apr-2017 15:36:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:36:52 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:36:52 UTC] PHP Stack trace:
+[05-Apr-2017 15:36:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:43:19 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Controller/seeTrainings.php on line 53
+[05-Apr-2017 15:43:19 UTC] PHP Stack trace:
+[05-Apr-2017 15:43:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Controller/seeTrainings.php:0
+[05-Apr-2017 15:44:32 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/View/seeTrainings.php on line 13
+[05-Apr-2017 15:44:32 UTC] PHP Stack trace:
+[05-Apr-2017 15:44:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/View/seeTrainings.php:0
+[06-Apr-2017 11:43:24 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 8
+[06-Apr-2017 11:44:56 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 7
+[06-Apr-2017 11:45:02 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 7
+[06-Apr-2017 11:47:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 9
+[11-Apr-2017 12:17:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 9
+[11-Apr-2017 12:17:53 UTC] PHP Stack trace:
+[11-Apr-2017 12:17:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/getTrainingModal.php:0
+[11-Apr-2017 12:19:09 UTC] PHP Fatal error:  Class 'Training' not found in /home/ubuntu/workspace/Functions/getTrainingModal.php on line 15
+[11-Apr-2017 12:19:09 UTC] PHP Stack trace:
+[11-Apr-2017 12:19:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/Functions/getTrainingModal.php:0
